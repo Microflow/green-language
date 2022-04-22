@@ -1,4 +1,4 @@
-# Node Twitter
+# Node Twitter / Green Language
 
 [![Build Status](https://travis-ci.org/vinitkumar/node-twitter.svg?branch=master)](https://travis-ci.org/vinitkumar/node-twitter)
 <img src="https://opencollective.com/nodetwitter/tiers/backer/badge.svg?label=backer&color=brightgreen" />
